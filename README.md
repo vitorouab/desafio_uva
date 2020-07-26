@@ -13,4 +13,8 @@ o seu <b>modelo Django</b> chamado '<b>planilha</b>' se encontra em <b>desafio_u
 <br><br>
 A <b>Ação Django</b> do ponto 3 do desafio está localizada em <b>desafio_uva/cadastro_processo/admin.py</b>
 <br><br><br>
+Usuário do administrador: <b>vitorouab</b> 
+<br>
+Senha do administrador: <b>desafiouva</b>
+<br><br>
 Espero que gostem do resultado. Qualquer problema, contactar-me por email: vitorouab@gmail.com
