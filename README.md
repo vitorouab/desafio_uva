@@ -1,21 +1,16 @@
 # desafio_uva
 Desafio Urbano Vitalino Advogados
 
-Neste repertório, você encontrará o código do desafio Urbano Vitalino Advogados feito por Vitor Nadjim Mota Ouabdelkader
-
-
-Na pasta Entrada está tanto o arquivo .csv de teste, quanto um arquivo .csv de exemplo que já está adicionado a base de dados.
-
-
-O app do ponto 1 do desafio se chama 'modelos' e se encontra em /desafio_uva/modelos/,
-
-o seu modelo 'processo' do desafio se encontra em /desafio_uva/modelos/models.py
-
-
-O app do ponto 2 do desafio se chama 'cadastro_processo' e se encontra em /desafio_uva/cadastro_processo/,
-
-o seu modelo 'planilha' do desafio se encontra em /desafio_uva/cadastro_processo/models.py
-
-
-Espero que gostem do resultado.
-Qualquer problema, contactar-me por email: vitorouab@gmail.com
+Neste repertório, você encontrará o código do desafio <b>Urbano Vitalino Advogados</b> feito por <b>Vitor Nadjim Mota Ouabdelkader</b>.
+<br><br>
+Na pasta <b>Entrada</b> estão tanto o arquivo .csv de <b>teste</b>, quanto um arquivo .csv de exemplo que já está adicionado a base de dados.
+<br><br>
+O <b>app Django</b> do ponto 1 do desafio se chama '<b>modelos</b>' e se encontra em <b>/desafio_uva/modelos/</b>,
+o seu <b>modelo Django</b> chamado '<b>processo</b>' se encontra em <b>/desafio_uva/modelos/models.py</b>
+<br><br>
+O <b>app Django</b> do ponto 2 do desafio se chama '<b>cadastro_processo</b>' e se encontra em <b>/desafio_uva/cadastro_processo/</b>,
+o seu <b>modelo Django</b> chamado '<b>planilha</b>' se encontra em <b>desafio_uva/cadastro_processo/models.py</b>
+<br><br>
+A <b>Ação Django</b> do ponto 3 do desafio está localizada em <b>desafio_uva/cadastro_processo/admin.py</b>
+<br><br><br>
+Espero que gostem do resultado. Qualquer problema, contactar-me por email: vitorouab@gmail.com
