@@ -11,7 +11,7 @@ o seu <b>modelo Django</b> chamado '<b>processo</b>' se encontra em <b>/desafio_
 O <b>app Django</b> do ponto 2 do desafio se chama '<b>cadastro_processo</b>' e se encontra em <b>/desafio_uva/cadastro_processo/</b>,
 o seu <b>modelo Django</b> chamado '<b>planilha</b>' se encontra em <b>desafio_uva/cadastro_processo/models.py</b>
 <br><br>
-A <b>Ação Django</b> do ponto 3 do desafio está localizada em <b>desafio_uva/cadastro_processo/admin.py</b>
+A <b>Ação Django</b> do ponto 3 do desafio chamada <b>Cadastrar processos</b> está localizada em <b>desafio_uva/cadastro_processo/admin.py</b>
 <br><br><br>
 Usuário do administrador: <b>vitorouab</b> 
 <br>
